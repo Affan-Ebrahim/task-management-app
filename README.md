@@ -73,18 +73,4 @@ The app uses MySQL. The database schema includes:
 ## 📝 Notes
 
 - No external HTML/CSS template was used. UI is custom-built with Blade and Tailwind CSS.
-- You must configure SMTP settings in `.env` for email features (if implemented).
-
----
-
-## 👥 Group Members
-
-- Josh Lenders
-- Affan Ebrahim 
-- Dean Jantjies
-
----
-
-## 📜 License
-
-This project is for educational use only under ICT ELECTIVES 3 – Laravel Web Frameworks (ICE360S).
+- You must configure SMTP settings in `.env` for email features 
